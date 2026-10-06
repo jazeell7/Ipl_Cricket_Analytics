@@ -1,0 +1,5 @@
+ipl.db
+tables/
+analysis/.ipynb_checkpoints/
+analysis/*_backup.ipynb
+analysis/*_copy.ipynb
